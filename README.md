@@ -1,10 +1,10 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+<img width="785" height="612" alt="image" src="https://github.com/user-attachments/assets/8c7777a1-efe8-4498-9480-92883df8fbba" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
 # Ex.No:11
   Formulate a C program to convert a given decimal number into its binary equivalent and display it.
-# Date : 
+# Date : 27-11-2025
 # Aim:
 To formulate a C program to convert a decimal number into its binary equivalent and display it.
 # Algorithm:
@@ -27,8 +27,12 @@ To formulate a C program to convert a decimal number into its binary equivalent 
   Display the binary digits in reverse order (from i-1 down to 0).
 ### Step 8: 
    Stop
-# Program:
+# Program: 
+<img width="791" height="615" alt="image" src="https://github.com/user-attachments/assets/ca3ad78b-8394-41fa-9035-2df2e8f1973a" />
+
 # Output:
+<img width="815" height="228" alt="image" src="https://github.com/user-attachments/assets/c6bf04f7-6de0-4120-9c0a-8c3bbdb05ded" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -66,8 +70,16 @@ Thus, the program was implemented and executed successfully, and the required ou
 - Print the saddle point value and its position.
 ### Step 9: 
   Stop
-# Program:
+# Program: 
+<img width="785" height="612" alt="image" src="https://github.com/user-attachments/assets/84644dfd-0c10-4227-a32c-cc2eda931b28" />
+<img width="792" height="629" alt="image" src="https://github.com/user-attachments/assets/04165f42-525c-4f15-ba1b-24d9ed7be291" />
+
+
 # Output:
+<img width="822" height="341" alt="image" src="https://github.com/user-attachments/assets/dd3b658d-73ea-465c-bf7f-05085fab4bd9" />
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -101,7 +113,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10: 
   Stop
 # Program:
+<img width="812" height="566" alt="image" src="https://github.com/user-attachments/assets/2f4d7c5f-6abc-49e7-a356-89bad4469ec2" />
+
 # Output:
+<img width="828" height="199" alt="image" src="https://github.com/user-attachments/assets/eab08c2f-a96c-4551-b35e-d87d4a4cc9d3" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -109,7 +125,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-3- Module 3 - FoC
 # Ex.No:14
   Formulate a C program to count the frequency of each character in a given string and display the count of every character.
-# Date : 
+# Date : 27-11-2025
 # Aim:
   To formulate a C program that accepts a string from the user and calculates the frequency of each character in the string.
 # Algorithm:
@@ -135,7 +151,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:
   Stop
 # Program:
+<img width="782" height="579" alt="image" src="https://github.com/user-attachments/assets/007f9d50-7b78-4f88-9523-273159fe71f6" />
+
 # Output:
+<img width="723" height="363" alt="image" src="https://github.com/user-attachments/assets/ad3f4983-44d5-4745-900c-ed036f9e8474" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -144,7 +164,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-3- Module 3 - FoC
 # Ex.No:15
   Formulate a C program to remove duplicate words from a given string and display the string with only unique words.
-# Date : 
+# Date : 27-11-2025
 # Aim:
   To formulate a C program to remove duplicate words from a given string and display the string with only unique words.
 # Algorithm:
@@ -169,7 +189,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8: 
   Stop
 # Program:
+<img width="787" height="609" alt="image" src="https://github.com/user-attachments/assets/7a23403c-1592-4917-b41b-5105c1d18556" />
+<img width="800" height="465" alt="image" src="https://github.com/user-attachments/assets/04a86f23-f379-4f52-b3a4-cb8b414842b8" />
+
 # Output:
+<img width="842" height="207" alt="image" src="https://github.com/user-attachments/assets/3b124109-427f-4477-9c28-86a25c18931e" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
